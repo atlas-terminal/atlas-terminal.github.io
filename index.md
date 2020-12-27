@@ -1,7 +1,7 @@
 ---
-title: /
+title: atlas-terminal
 layout: home
-permalink: /
+permalink: atlas-terminal
 ---
 
 # Lorem ipsum
